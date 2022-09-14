@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shivanand.pal.37) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/123_shivanand) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanand-pal) 
 
-## :computer: Profiles:
+## :desktop_computer: Profiles:
 <a href="https://www.codechef.com/users/swordsman_zoro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="swordsman_zoro" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/swordsman_zoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swordsman_zoro" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/123_kanhaiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="123_kanhaiya" height="30" width="40" /></a>
