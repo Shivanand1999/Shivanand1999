@@ -1,6 +1,7 @@
-# Hey there :wave:
+<p align="center">
+  <a href="#"> <img src="resource/welcome.svg"/> </a>
+</p>
 
-<img src="resource/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
