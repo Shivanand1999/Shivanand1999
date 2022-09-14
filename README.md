@@ -1,3 +1,12 @@
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/Shivanand1999/Shivanand1999/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Shivanand1999/count.svg" />
+</p>
+
 # 💫 About Me:
 🔭 I’m Currently Preparing For Salesforce Certifications.<br>🌱 I’m currently Exploring Copado - A Salesforce solution for DevOps.<br>🤔 Working At Sopra Steria As Software Engineer.<br>💬 Ask me about Salesforce Development & Exciting projects to work on.<br>📫 How to reach me: :envelope: palshivanand884@gmail.com .<br>😄 Pronouns: He/His<br>👀 I’m interested in programming and making the world a better place by providing solutions through code.<br>⚡ Fun fact: Gym Enthusiast
 
