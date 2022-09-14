@@ -5,11 +5,12 @@
   <a href="#"> <img src="resource/shivanand.gif"/></a>
 </p>
 
-
+<p align="center">
+  <a href = "https://github.com/Shivanand1999"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Shivanand1999?style=for-the-badge&color=236ad3&labelColor=1155ba&&logo=github&label=Follow"/></a>
+</p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Shivanand1999/count.svg" />
-  <a href = "https://github.com/Shivanand1999"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Shivanand1999?style=for-the-badge&color=236ad3&labelColor=1155ba&&logo=github&label=Follow"/></a>
 </p>
 
 ---
