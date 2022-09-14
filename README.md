@@ -1,6 +1,9 @@
 <p align="center">
   <a href="#"> <img src="resource/welcome.svg"/> </a>
 </p>
+<p align="center">
+  <a href="#"> <img src="resource/shivanand.gif"/></a>
+</p>
 
 
 <p align="center"> 
