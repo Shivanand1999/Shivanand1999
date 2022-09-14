@@ -1,6 +1,6 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/Shivanand1999/Shivanand1999/master/resources/banner.png" alt="Hello world">
+<img src="resource/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
