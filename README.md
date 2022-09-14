@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m Currently Preparing For Salesforce Certifications.<br>🌱 I’m currently Exploring Copado - A Salesforce solution for DevOps.<br>🤔 Working At Sopra Steria As Software Engineer.<br>💬 Ask me about Salesforce Development & Exciting projects to work on.<br>📫 How to reach me: :envelope: palshivanand884@gmail.com .<br>😄 Pronouns: He/His<br>👀 I’m interested in programming and making the world a better place by providing solutions through code.<br>⚡ Fun fact: Gym Enthusiast
 
+<p align="center">
+    <a href = "https://github.com/Shivanand1999"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/harshit2608?style=for-the-badge&color=236ad3&labelColor=1155ba&&logo=github&label=Follow"/></a>
+</p>
 
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shivanand.pal.37) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/123_shivanand) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanand-pal) 
