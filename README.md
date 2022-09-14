@@ -46,7 +46,9 @@
 ---
 
 ### ✍️ Random Dev Quote
+<p align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shivanand1999&icon=5&color=0)](https://visitcount.itsvg.in)
