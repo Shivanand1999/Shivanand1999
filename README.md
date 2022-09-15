@@ -45,8 +45,8 @@
 
 ---
 
-![Shivanand's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shivanand1999&theme=react-dark) 
-
----
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+![Shivanand's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shivanand1999&theme=react-dark) 
