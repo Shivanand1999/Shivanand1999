@@ -45,6 +45,29 @@
 
 ---
 
+<p align="center">
+<table>
+<tr>
+  
+  <td>
+  <a href="https://github.com/Shivanand1999">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivanand1999&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Shivanand's Github Stats" height="180rem" />
+  </a>
+  </td>
+    
+  <td> 
+<a href="https://github.com/Shivanand1999"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivanand1999&theme=vue-dark&hide_border=false" height="180rem"/></a>
+  </td>
+    <td> 
+<a href="https://github.com/Shivanand1999"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanand1999&layout=compact&theme=radical&hide_border=true" height="180rem"/></a>
+  </td>
+    
+</tr>
+</table>
+</p>
+
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
