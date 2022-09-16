@@ -11,11 +11,6 @@
 <p align=center>                           
   <a href="https://github.com/Shivanand1999"><img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=73015307" alt="Visitors"></a>     
 </p>
-  
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Shivanand1999/count.svg" />
-</p>
 
 ---
 
