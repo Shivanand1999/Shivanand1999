@@ -58,7 +58,7 @@
 
 
 <p align="center">
-<table>
+<table style=margin-left:auto;margin-right:auto>
 <tr>
 <td> 
 <a href="https://github.com/Shivanand1999"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanand1999&count_private=true&layout=compact&theme=radical&hide_border=true" height="180rem"/></a>
